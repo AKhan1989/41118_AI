@@ -1,2 +1,1 @@
-# 41118_AI
-Mastery Quiz 3 Folder
+Files for setup of environment to call and run from Google Colab
